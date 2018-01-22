@@ -32,3 +32,10 @@ Follow the instructions to successfully change your password.
 
 Login with your username and password at the Microsoft Windows login screen.
 After login, hit: ctrl+alt+del at the same time. Choose change password. Follow the instructions to successfully change your password.
+
+**Contact the MSRI Information Technology Department:**
+
+	Phone: 510-643-0906 (External) 30906 (Internal)
+	Email: itsupport at MSRI dot ORG
+
+	
