@@ -13,6 +13,18 @@ SSH Information:
 		
 ### SSH from a Linux / UNIX / Mac OS X host
 
+* Located a Terminal Emulator. In Mac OS, this can be found in Applications -> Utilities - Terminal. 
+* SSH using the following command: ssh username@cycle.msri.org, See the screenshot below:
+![SSH screenshot](https://s3-us-west-1.amazonaws.com/msri.org/computing/ssh-screenshot.png)
+* The default terminal is /bin/sh, you may wish to invoke bash or another more commonly used shell. 
+![SSH screenshot bash](https://s3-us-west-1.amazonaws.com/msri.org/computing/ssh-screenshot-bash.png)
+* If you intend to run X.org forwarding for graphics support, you will want to use ssh -XY username@cycle.msri.org. This allows the SSH tunnel to utilize your local Xwindows server. This is useful for applications such as: Mathematica, Matlab, and others which require graphics and mouse support. 
+* Note for Mac OS X, you will need to install XQuartz. [Download XQuartz here](https://www.xquartz.org/) 
+
+#### Xforwarding on Mac OS X example
+
+
+
 ### SSH from a Windows host
 
 ### Accessing your office computer via SSH
