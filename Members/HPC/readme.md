@@ -23,6 +23,10 @@ SSH Information:
 
 #### Xforwarding on Mac OS X example
 
+1. Install Xquartz (Link above) Alternative: You can use [Homebrew](https://brew.sh/) to install Xquartz with brew install xquartz.
+2. SSH to cycle.msri.org using ssh -XY username@cycle.msri.org (See screenshot below). Once you're in the bash prompt, you can start whichever X program you want. Below Mathematica was started to demonstrate X-forwarding. 
+![SSH screenshot mathematica](https://s3-us-west-1.amazonaws.com/msri.org/computing/ssh-mathematica.png)
+
 
 
 ### SSH from a Windows host
