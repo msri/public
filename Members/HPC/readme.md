@@ -31,7 +31,19 @@ SSH Information:
 
 ### SSH from a Windows host
 
+* Install PuTTy, [Download Here](https://www.putty.org/)
+* Configure putty with the following information ![Putty screenshot](https://s3-us-west-1.amazonaws.com/msri.org/computing/ssh-putty.png)
+* Be sure to enter Cycle into the saved sessions region and click "save". This will allow you to "load" future sessions without having to type in the address again. This is all you need to do if you don't intend to use X.org / Graphics support. 
+
+#### Xforwarding on Windows example
+
+1. If you intend to use X.org forwarding for graphics support. Please install, Xming [available here](https://sourceforge.net/projects/xming/)
+2. Open Putty and load the Cycle.msri.org from saved sessions.
+3. Open Xming. Xming will show in your system tray. ![Xming screenshot](https://s3-us-west-1.amazonaws.com/msri.org/computing/ssh-xming1.png)
+4. 
+
 ### Accessing your office computer via SSH
+
 
 ## High Performance Computing Resources at MSRI
 
