@@ -1,4 +1,7 @@
-# Scanning at MSRI
+## Scanning at MSRI
+
+Scanners are located throughout MSRI. Please refer to the table below: 
+
 
 Scanner Name | Location	| Scanner Model
 ------------- | ------------- | ------------- |-------------
