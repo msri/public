@@ -56,5 +56,5 @@ SSH Information:
 
 ## High Performance Computing Resources at MSRI
 
-		Still refining documentation for this. 
+		We are still refining documentation for this. 
 		Please contact IT support if you wish to experiment with HPC at MSRI. Thank you!
