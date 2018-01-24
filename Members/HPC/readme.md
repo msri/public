@@ -37,14 +37,24 @@ SSH Information:
 
 #### Xforwarding on Windows example
 
-1. If you intend to use X.org forwarding for graphics support. Please install, Xming [available here](https://sourceforge.net/projects/xming/)
-2. Open Putty and load the Cycle.msri.org from saved sessions.
+1. If you intend to use X.org forwarding for graphics support. Please install, Xming [available here](https://sourceforge.net/projects/xming/).
+2. Install Xming using the following configuration options: ![Xming installation](https://s3-us-west-1.amazonaws.com/msri.org/computing/xming-install.png)
 3. Open Xming. Xming will show in your system tray. ![Xming screenshot](https://s3-us-west-1.amazonaws.com/msri.org/computing/ssh-xming1.png)
-4. 
+4.  Open Putty and load the Cycle.msri.org from saved sessions. This time, you will make changes to the configuration. Locate the SSH menu from the right navigation pane. Go to X11 and enter the following information: ![X11 forwarding putty](https://s3-us-west-1.amazonaws.com/msri.org/computing/xforwarding-putty.png)
+5. Return to sessions and save as the desired session name. Click open and login to cycle.msri.org.
+6. After login, you may open the desired X11 application. In this example, Xmaple was invoked: ![Xmaple in Putty](https://s3-us-west-1.amazonaws.com/msri.org/computing/xmaple-putty.png)
+7. These are the commands to open popular applications:
 
-### Accessing your office computer via SSH
+		xmaple -nosplash
+		mathematica
+		matlab
+		Xemacs
+		kile
+		
+
 
 
 ## High Performance Computing Resources at MSRI
 
-	
+		Still refining documentation for this. 
+		Please contact IT support if you wish to experiment with HPC at MSRI. Thank you!
