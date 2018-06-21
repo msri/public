@@ -19,8 +19,11 @@ If you have problems, please email: itsupport at MSRI.ORG. More info is availabl
 ![64 Bit Installer Screenshot](https://s3-us-west-1.amazonaws.com/msri.org/computing/python-3.6.png) 
 
 * Begin the installation by double-clicking the downloaded file. 
+
 * Click next at the Welcome to Anaconda3 screen:
+
 ![Python Welcome](https://s3-us-west-1.amazonaws.com/msri.org/computing/welcome-python.png)
+
 * Click agree to the license agreement screen: 
 
 ![License Agreement screen](https://s3-us-west-1.amazonaws.com/msri.org/computing/license-python.png)
@@ -52,6 +55,7 @@ If you have problems, please email: itsupport at MSRI.ORG. More info is availabl
 * Select new from the top right side of the screen. Choose Python 3. 
 
 ![Python 3 new](https://s3-us-west-1.amazonaws.com/msri.org/computing/new-python-3.png)
+
 * You should see this following: 
 
 ![Untitled in prompt](https://s3-us-west-1.amazonaws.com/msri.org/computing/Untitlied-in-prompt.png)
