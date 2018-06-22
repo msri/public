@@ -4,7 +4,7 @@ These instructions tell you how to install python 3 via Anaconda. These instruct
 
 If you have problems, please email: itsupport at MSRI.ORG. More info is available here:
 
-[Mac OS X Installation](https://docs.anaconda.com/anaconda/install/mac-os)
+[Specific instructions for Mac OS X](https://docs.anaconda.com/anaconda/install/mac-os)
 
 [Specific installation steps for Linux](https://docs.anaconda.com/anaconda/install/linux)
 
