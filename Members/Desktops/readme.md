@@ -12,8 +12,8 @@ We recommend your change your password on initial login. Each operating system (
 
 Login with your username and password at the KDM login screen.
 Open terminal: 
-Type "passwd" and hit enter. Follow the instructions on the screen.
-Your password is now changed.
+Type "passwd" followed by your username and hit enter. Follow the instructions on the screen.
+Your password is now changed. If you get an "Authentication Token manipulation failure" error. It probably means you did not supply your username as a parameter to the passwd command.
 
 **Changing your password on Mac OS**
 
