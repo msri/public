@@ -1,6 +1,6 @@
 # Member's Desktop Computing at MSRI
 
-Members desktops are a mix of Linux, Mac OS, and Windows. Members have a choice of what operating system they prefer. This information is usually collected via survey before the member begins. You can always email IT to change your request (see contact information below). Please allow a few days for this change to process and for the IT department to ready your equipment.
+Members desktops are a mix of Linux and Mac OS X. Members have a choice of what operating system they prefer. You can always email IT to change your configuration (see contact information below, change approved only if hardware is available). Please allow a few days for this change to process and for the IT department to ready your equipment.
 
 ## Initial Login
 You will receive your login information during check-in at the front desk. This includes your username and password. This is how you will login to your desktop. The MSRI wireless: MSRI-Members uses a different password, this is also located in your welcome packet. If you requested a computer, it should already be installed in your office and awaiting you at a login prompt.
