@@ -15,6 +15,8 @@ Eduroam is available on the entire MSRI campus. For more information about Eduro
 
 If you experience any wireless problems while visiting MSRI, please be sure to let the MSRI IT Team know: [Submit a problem ticket](https://msrihelpdesk.freshdesk.com/support/tickets/new)
 
+Current wireless status, [click here](http://p4.meraki.com/network/MSRI).
+
 
 
 **Contact the MSRI Information Technology Department:**
