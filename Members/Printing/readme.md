@@ -8,7 +8,7 @@ MSRI-3rdFloor-North  | 2nd Floor Outside Room 332	| HP M608X | 10.17.21.30
 MSRI-3rdFloor-South  | 2nd Floor Outside Room 316	| HP M606X| 10.17.21.31
 
 
-You may print from your office computer or any of the wireless access at MSRI. This includes:
+You may print from your office computer or any of the wireless networks at MSRI. This includes:
 			
 	MSRI-Guest
 	MSRI-Members
