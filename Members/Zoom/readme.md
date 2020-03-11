@@ -13,5 +13,9 @@ or
 Login if you already have a Zoom Account. 
 
 Instructions for Zoom Meetings
+
 Instruction for Webinar moderators
+
 Instructions for Videographers
+
+Instructions for Mobile Users (iOS & Android)
