@@ -6,7 +6,6 @@ Last updated: 3/22/2020
 
 | Room Name  | Meeting ID  |
 |---|---|
-| [MSRI Stand-up Room #1](https://msri.zoom.us/j/741715688
-)  |  741715688 |
+| [MSRI Stand-up Room #1](https://msri.zoom.us/j/741715688)  |  741715688 |
 |   |   |
 |   |   |
