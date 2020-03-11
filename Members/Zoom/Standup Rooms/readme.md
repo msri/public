@@ -4,4 +4,8 @@ These rooms allow ad-hoc meetings between MSRI members while we are practicing s
 
 Last updated: 3/22/2020
 
-| Room Name | Link |
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
