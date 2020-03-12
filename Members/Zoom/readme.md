@@ -12,10 +12,10 @@ General Zoom Usage
 or
 Login if you already have a Zoom Account. 
 
-Instructions for Zoom Meetings
+## [Instructions for Zoom Meetings](https://github.com/msri/public/tree/master/Members/Zoom/Meetings)
 
-Instruction for Webinar moderators
+## Instruction for Webinar moderators
 
-Instructions for Videographers
+## Instructions for Videographers
 
-Instructions for Mobile Users (iOS & Android)
+## Instructions for Mobile Users (iOS & Android)
