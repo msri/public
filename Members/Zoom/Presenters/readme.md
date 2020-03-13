@@ -32,10 +32,10 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary> How to connect your speakers and webcam</summary>
-1. This assumes you have already joined the workshop meeting by clicking the: [MSRI Workshop Zoom](https://msri.zoom.us/j/226801541) 
-1. choose "join with Computer Audio", or "via Phone". If you suspect your internet connection is unstable, we recommend dialing in via phone. In this example, we use the computer audio. ![Zoom audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-audio-Capture.PNG)
-1. Please mute upon entry by clicking the mute button in the bottom left. ![Zoom Mute](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-mute.PNG) We recommend staying muted until you wish to speak. You can toggle this button again to unmute. 
-1. To start your webcam, click the "start video" button next to the Mute/UnMute button: ![Start Video](https://s3-us-west-1.amazonaws.com/msri.org/computing/start-video.PNG)
+ 1. This assumes you have already joined the workshop meeting by clicking the: [MSRI Workshop Zoom](https://msri.zoom.us/j/226801541) 
+ 1. choose "join with Computer Audio", or "via Phone". If you suspect your internet connection is unstable, we recommend dialing in via phone. In this example, we use the computer audio. ![Zoom audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-audio-Capture.PNG)
+ 1. Please mute upon entry by clicking the mute button in the bottom left. ![Zoom Mute](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-mute.PNG) We recommend staying muted until you wish to speak. You can toggle this button again to unmute. 
+ 1. To start your webcam, click the "start video" button next to the Mute/UnMute button: ![Start Video](https://s3-us-west-1.amazonaws.com/msri.org/computing/start-video.PNG)
 
 </details>
 
