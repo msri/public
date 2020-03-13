@@ -20,9 +20,7 @@ For help with zoom, email: itsupport@msri.org
  If you do not have a zoom account, you will need to create one. After installing zoom. You can click "Sign Up Free" at the bottom of the Sign In Window: ![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
 
  ### Please remember your login and password after signing up. 
-
- </details>
-
+</details>
 
 <details>
  <summary> How to join a workshop </summary>
