@@ -9,7 +9,7 @@ For help with zoom, email: itsupport@msri.org
  1. Follow the instructions on the screen to install Zoom. 
  1. Once Zoom is installed you're ready to join the workshop. You should see this screen:![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
  
-## Placeholder test. 
+
 
 </details>
 
@@ -17,9 +17,12 @@ For help with zoom, email: itsupport@msri.org
  <summary> Signing in to Zoom </summary>
  If you already have a zoom account associated with your email address you used at MSRI, you can sign in to that account. MSRI will invite you to be one of our "panelists". Panelists are the "zoom speak" for workshop presenters. 
 
- If you do not have a zoom account, you will need to create one. After installing zoom. You can click create account here: ![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
+ If you do not have a zoom account, you will need to create one. After installing zoom. You can click "Sign Up Free" at the bottom of the Sign In Window: ![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
+
+ ### Please remember your login and password after signing up. 
+
  </details>
-## Placeholder test. 
+
 
 <details>
  <summary> How to join a workshop </summary>
