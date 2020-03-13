@@ -18,9 +18,8 @@ For help with zoom, email: itsupport@msri.org
  If you already have a zoom account associated with your email address you used at MSRI, you can sign in to that account. MSRI will invite you to be one of our "panelists". Panelists are the "zoom speak" for workshop presenters. 
 
  If you do not have a zoom account, you will need to create one. After installing zoom. You can click create account here: ![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
-
-
  </details>
+
 
 <details>
  <summary>How to join a workshop </summary>
