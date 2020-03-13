@@ -53,13 +53,23 @@ For help with zoom, email: itsupport@msri.org
 
 ![Share Screens](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-screen-Capture.PNG)
 
-1. You can share your entire screen by clicking the "Screen" window. Or you may share just a single application. For example, if you created your presentation in TeX with Beamer and you wanted to share the resulting PDF (assuming it was opened), you could select the PDF window as shown here:![Zoom Sharing application](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-sharing-application.PNG)  
+You can share your entire screen by clicking the "Screen" window. Or you may share just a single application. For example, if you created your presentation in TeX with Beamer and you wanted to share the resulting PDF (assuming it was opened), you could select the PDF window as shown here:![Zoom Sharing application](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-sharing-application.PNG)  
+
+### Click "Share" when you have selected which screen you wish to share.
 
 </details>
 
 <details>
  <summary>How to share a video</summary>
+ 
+ Sharing video is the same process is Zoom.
 
+1. Open the video in the video player you wish to share. In this example we used VLC.  
+1. Click "Share Screen".
+![Zoom video](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-video.png)
+1. You will see the video in the list of window options. Choose the video and also be sure to check "Share Computer Sound" at the bottom left. 
+1. Click share once you are ready to share. 
+1. Once shared, you can play the video for all participants to hear. 
  </details>
 
 <details>
