@@ -23,7 +23,7 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary> How to join a workshop </summary>
- ## This assumes you have already installed and signed in to Zoom. 
+ This assumes you have already installed and signed in to Zoom. 
  1. Click on the meeting link:[MSRI Workshop Zoom](https://msri.zoom.us/j/226801541)
  1. Zoom will open automatically and drop you into the meeting. The next step will be to configure your webcam and microphone. Those options will appear on the page as soon as you click the link above. 
 
