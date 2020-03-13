@@ -5,9 +5,11 @@ For help with zoom, email: itsupport@msri.org
  <summary> How to install Zoom </summary>
 
  ## Installing Zoom
- 1. Download Zoom.
- 1. Install Zoom.
-    * Sub text
+ 1. [Download Zoom](https://zoom.us/download)
+ 1. Follow the instructions on the screen to install Zoom. 
+ 1. Once Zoom is installed you're ready to join the workshop. You should see this screen:![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
+ 
+ 
 
 </details>
 
