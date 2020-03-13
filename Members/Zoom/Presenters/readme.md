@@ -22,15 +22,29 @@ For help with zoom, email: itsupport@msri.org
 
  </details>
 
+<details>
+ <summary>How to join a workshop </summary>
 
 
+</details>
 
 
+<details>
+ <summary>How to connect your speakers and webcam</summary>
 
 
+</details>
 
-### Zoom Process Check-list for Workshop Presenters:
 
+<details>
+ <summary>How to share your screen or presentation (PDF, Powerpoint, etc)</summary>
+
+
+</details>
+
+
+<details>
+ <summary> MSRI's Zoom Checklist</summary>
 - [ ] Install and open Zoom. 
 - [ ] Test your sound using the zoom sound test meeting: [JOIN ZOOM TEST MEETING](https://zoom.us/test)
 - [ ] Ensure your lighting is appropriate (no shadows, no backlighting from windows, etc)
@@ -38,6 +52,8 @@ For help with zoom, email: itsupport@msri.org
 - [ ] Review and practice sharing the resources (screen sharing, video sharing, presentation sharing, etc)
 - [ ] Try to join from a wired connection where possible. 
 - [ ] Be sure your know the meeting ID you plan to join. For workshops, that information will be [available here](https://www.msri.org/web/msri/scientific/workshops).
+
+</details>
 
 ## How to present over zoom for MSRI workshops
 This assumes you have already installed zoom. Each presenter will be added as a panelist for the workshop. You should receive an email that looks like this: ![zoom invite moderator](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-moderator-invite.PNG)
