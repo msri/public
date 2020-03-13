@@ -24,24 +24,37 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary>How to join a workshop </summary>
-
+This assumes you have already installed and signed in to Zoom. 
+1. Click on the meeting link:[MSRI Workshop Zoom](https://msri.zoom.us/j/226801541)
+1. Zoom will open automatically and drop you into the meeting. The next step will be to configure your webcam and microphone. Those options will appear on the page as soon as you click the link above. 
 
 </details>
 
 
 <details>
  <summary>How to connect your speakers and webcam</summary>
-
+1. This assumes you have already joined the workshop meeting by clicking the: [MSRI Workshop Zoom](https://msri.zoom.us/j/226801541) 
+1. choose "join with Computer Audio", or "via Phone". If you suspect your internet connection is unstable, we recommend dialing in via phone. In this example, we use the computer audio. ![Zoom audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-audio-Capture.PNG)
+1. Please mute upon entry by clicking the mute button in the bottom left. ![Zoom Mute](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-mute.PNG) We recommend staying muted until you wish to speak. You can toggle this button again to unmute. 
+1. To start your webcam, click the "start video" button next to the Mute/UnMute button: ![Start Video](https://s3-us-west-1.amazonaws.com/msri.org/computing/start-video.PNG)
 
 </details>
 
 
 <details>
  <summary>How to share your screen or presentation (PDF, Powerpoint, etc)</summary>
-
+1. This assumes you have downloaded and installed zoom. You also joined the meeting and successfully connected your camera and microphone.
+1. Other options besides the camer and microphone appear at the bottom of the screen after joining. ![Zoom Options](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-options-bottom-screen-Capture.PNG)
+1. To share your screen, presentation or other applications on your computer. You can click the "Share" option. You will be presented with a variety of choices. 
+![Zoom share screens](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-screen-Capture.PNG)
+1. You can share your entire screen by clicking the "Screen" window. Or you may share just a single application. For example, if you created your presentation in TeX with Beamer and you wanted to share the resulting PDF (assuming it was opened), you could select the PDF window as shown here:![Zoom Sharing application](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-sharing-application.PNG)  
 
 </details>
 
+<details>
+ <summary>How to share a video</summary>
+
+ </details>
 
 <details>
  <summary> MSRI's Zoom Checklist</summary>
@@ -55,13 +68,6 @@ For help with zoom, email: itsupport@msri.org
 
 </details>
 
-## How to present over zoom for MSRI workshops
-This assumes you have already installed zoom. Each presenter will be added as a panelist for the workshop. You should receive an email that looks like this: ![zoom invite moderator](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-moderator-invite.PNG)
-1. Open Zoom and be sure you are logged in. If you're a presenter MSRI will invite you via email to join our zoom license. If you have an existing license with your current email address, you can just login with those details. Your current license scheme (provided by another institute) will not be affected by joining MSRI's Workshop Zoom license. These can exist concurrently.
-1. Under the "Meetings" icon at the top, you will see the MSRI workshop name. Here is an example: ![Example Workshop](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-upcoming.PNG)
-1. Click Start. 
-1. Join with Computer Audio, or via Phone. If you suspect your internet connection is unstable, we recommend dialing in via phone. In this example, we use the computer audio. ![Zoom audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-audio-Capture.PNG)
-1. The options available to you appear at the bottom of the screen after joining. ![Zoom Options](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-options-bottom-screen-Capture.PNG)
-1. To share your screen, presentation or other applications on your computer. You can click the Share option. You will be presented with a variety of options. 
-![Zoom share screens](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-screen-Capture.PNG)
-1. You can share your entire screen by clicking the 
+
+
+
