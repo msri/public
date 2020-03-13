@@ -14,6 +14,7 @@ For help with zoom, email: itsupport@msri.org
 - [ ] Review and practice sharing the resources (screen sharing, video sharing, etc)
 - [ ] Try to join from a wired connection where possible. 
 - [ ] Be sure your know the meeting ID you plan to join.
+- [ ] If you are a speaker, be sure you've been added as a panelist. More instructions below. 
 
 
 ### General Overview:
