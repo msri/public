@@ -4,7 +4,7 @@ For help with zoom, email: itsupport@msri.org
 ### Be sure you have [scheduled your zoom resources here.](https://docs.google.com/forms/d/e/1FAIpQLSe_Tp18HFLuT4Mu6-FUYzb3Z4W8T2bXG-JNx0Yy6D3q-Ck5yw/viewform) 
 
 ### Zoom Process Check-list for Workshop Presenters:
-- [ ] Schedule your talk / resources using [this link](https://docs.google.com/forms/d/e/1FAIpQLSe_Tp18HFLuT4Mu6-FUYzb3Z4W8T2bXG-JNx0Yy6D3q-Ck5yw/viewform)
+
 - [ ] Install and open Zoom. 
 - [ ] Test your sound using the zoom sound test meeting: [JOIN ZOOM TEST MEETING](https://zoom.us/test)
 - [ ] Ensure your lighting is appropriate (no shadows, no backlighting from windows, etc)
