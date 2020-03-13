@@ -50,7 +50,7 @@ For help with zoom, email: itsupport@msri.org
 1. This assumes you have downloaded and installed zoom. You also joined the meeting and successfully connected your camera and microphone.
 1. Other options besides the camer and microphone appear at the bottom of the screen after joining. ![Zoom Options](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-options-bottom-screen-Capture.PNG)
 1. To share your screen, presentation or other applications on your computer. You can click the "Share" option. You will be presented with a variety of choices. 
-![Zoom share screens](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-screen-Capture.PNG)
+![Zoom share screens](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-screen-Capture.PNG =250x250)
 1. You can share your entire screen by clicking the "Screen" window. Or you may share just a single application. For example, if you created your presentation in TeX with Beamer and you wanted to share the resulting PDF (assuming it was opened), you could select the PDF window as shown here:![Zoom Sharing application](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-sharing-application.PNG)  
 
 </details>
@@ -62,7 +62,7 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary> MSRI's Zoom Checklist</summary>
- 
+
 - [ ] Install and open Zoom. 
 - [ ] Test your sound using the zoom sound test meeting: [JOIN ZOOM TEST MEETING](https://zoom.us/test)
 - [ ] Ensure your lighting is appropriate (no shadows, no backlighting from windows, etc)
