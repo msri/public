@@ -35,6 +35,7 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary> How to connect your speakers and webcam</summary>
+
  1. This assumes you have already joined the workshop meeting by clicking the: [MSRI Workshop Zoom](https://msri.zoom.us/j/226801541) 
  1. choose "join with Computer Audio", or "via Phone". If you suspect your internet connection is unstable, we recommend dialing in via phone. In this example, we use the computer audio. ![Zoom audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-audio-Capture.PNG)
  1. Please mute upon entry by clicking the mute button in the bottom left. ![Zoom Mute](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-mute.PNG) We recommend staying muted until you wish to speak. You can toggle this button again to unmute. 
@@ -45,6 +46,7 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary>How to share your screen or presentation (PDF, Powerpoint, etc)</summary>
+
 1. This assumes you have downloaded and installed zoom. You also joined the meeting and successfully connected your camera and microphone.
 1. Other options besides the camer and microphone appear at the bottom of the screen after joining. ![Zoom Options](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-options-bottom-screen-Capture.PNG)
 1. To share your screen, presentation or other applications on your computer. You can click the "Share" option. You will be presented with a variety of choices. 
@@ -60,6 +62,7 @@ For help with zoom, email: itsupport@msri.org
 
 <details>
  <summary> MSRI's Zoom Checklist</summary>
+ 
 - [ ] Install and open Zoom. 
 - [ ] Test your sound using the zoom sound test meeting: [JOIN ZOOM TEST MEETING](https://zoom.us/test)
 - [ ] Ensure your lighting is appropriate (no shadows, no backlighting from windows, etc)
