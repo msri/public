@@ -17,4 +17,9 @@ For help with zoom, email: itsupport@msri.org
 This assumes you have already installed zoom. Each presenter will be added as a panelist for the workshop. You should receive an email that looks like this: ![zoom invite moderator](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-moderator-invite.PNG)
 1. Open Zoom and be sure you are logged in. If you're a presenter MSRI will invite you via email to join our zoom license. If you have an existing license with your current email address, you can just login with those details. Your current license scheme (provided by another institute) will not be affected by joining MSRI's Workshop Zoom license. These can exist concurrently.
 1. Under the "Meetings" icon at the top, you will see the MSRI workshop name. Here is an example: ![Example Workshop](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-upcoming.PNG)
-
+1. Click Start. 
+1. Join with Computer Audio, or via Phone. If you suspect your internet connection is unstable, we recommend dialing in via phone. In this example, we use the computer audio. ![Zoom audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-workshop-audio-Capture.PNG)
+1. The options available to you appear at the bottom of the screen after joining. ![Zoom Options](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-options-bottom-screen-Capture.PNG)
+1. To share your screen, presentation or other applications on your computer. You can click the Share option. You will be presented with a variety of options. 
+![Zoom share screens](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-share-screen-Capture.PNG)
+1. You can share your entire screen by clicking the 
