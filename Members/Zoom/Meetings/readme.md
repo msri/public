@@ -1,14 +1,12 @@
+# Using Zoom as an attendee
+Once you have successfully logged in to zoom. You may join a meeting via the 9-digit meeting ID or by clicking any meeting link from your computer. In this example, we will use MSRI's Zoom Stand-up Room #1 (741715688)
 
-# Zoom Meetings
+1. Click join a meeting
+1. Enter the meeting ID followed by how you wish to be identified in the meeting:
+![Zoom Join](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-join.PNG)
+1. Connect your computer audio. If your computer is equipped with a microphone and speakers, you may use your computer audio at this stage. If not, you may join via standard telephone. We recommend using your computer audio. 
+![Zoom Computer Audio](https://s3-us-west-1.amazonaws.com/msri.org/computing/computer-audio.PNG)
+1. At this point, you will be in the meeting. You can hear presenters and you may wish to present (see instructions below). Note: we do ask that you keep your microphone muted to prevent background noise. The mute button is located at the bottom left corner of the zoom window. 
+![Zoom muted](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-mute.PNG)
 
-### How to Create a Meeting
-
-Desktop: To schedule a meeting, click **Schedule**.
-
-Enter the desired information. We strongly recommend that you **do not** change the **Meeting ID** settings, leave it at **Generate Automatically**.
-
-Tip: If you'd like to start a quick meeting on the fly, you can refer to the first picture, click **New Meeting**, and your Personal Meeting ID will be the number used by attendees to join your meeting. Make sure you share that number with attendees.
-
-![https://msricomputing.s3-us-west-2.amazonaws.com/dsvwdq.png](https://msricomputing.s3-us-west-2.amazonaws.com/dsvwdq.png)
-
-![https://msricomputing.s3-us-west-2.amazonaws.com/sfe33.png](https://msricomputing.s3-us-west-2.amazonaws.com/sfe33.png)
+# Using Zoom as a presenter 
