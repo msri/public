@@ -1,9 +1,5 @@
 # Zoom remote conference information for MSRI Members and workshops
 For help with zoom, email: itsupport@msri.org 
-## [Schedule your zoom resources here.](https://docs.google.com/forms/d/e/1FAIpQLSe_Tp18HFLuT4Mu6-FUYzb3Z4W8T2bXG-JNx0Yy6D3q-Ck5yw/viewform) 
-
-
-## List of Stand-up Rooms to meet, any time [available here.](https://github.com/msri/public/tree/master/Members/Zoom/Standup%20Rooms)
 
 ### Zoom Process Check-list:
 - [ ] Schedule your talk / resources using [this link](https://docs.google.com/forms/d/e/1FAIpQLSe_Tp18HFLuT4Mu6-FUYzb3Z4W8T2bXG-JNx0Yy6D3q-Ck5yw/viewform)
