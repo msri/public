@@ -1,4 +1,4 @@
-# Zoom information for workshop speakers. 
+# Zoom information for MSRI Seminars. 
 For help with zoom, email: itsupport@msri.org 
 
 <details>
@@ -13,21 +13,13 @@ For help with zoom, email: itsupport@msri.org
 
 </details>
 
-<details>
- <summary> Signing in to Zoom </summary>
- If you already have a zoom account associated with your email address you used at MSRI, you can sign in to that account. MSRI will invite you to be one of our "panelists". Panelists are the "zoom speak" for workshop presenters. 
-
- If you do not have a zoom account, you will need to create one. After installing zoom. You can click "Sign Up Free" at the bottom of the Sign In Window: ![Zoom Login](https://s3-us-west-1.amazonaws.com/msri.org/computing/zoom-login.png)
-
- ### Please remember your login and password after signing up. 
-</details>
 
 <details>
- <summary> How to join a workshop </summary>
+ <summary> How to join an MSRI Seminar</summary>
  
- ### This assumes you have already installed and signed in to Zoom. 
  
- 1. Click on the meeting link:[MSRI Workshop Zoom](https://msri.zoom.us/j/226801541)
+ 1. Click on the meeting link from the [MSRI Seminar Page.](https://www.msri.org/web/msri/scientific/colloquia-seminars)
+ 1. Zoom will open and take you into the seminar. Please enter the password (emailed to you from the Organizers).
  1. Zoom will open automatically and drop you into the meeting. The next step will be to configure your webcam and microphone. Those options will appear on the page as soon as you click the link above. 
 
 </details>
@@ -81,7 +73,7 @@ You can share your entire screen by clicking the "Screen" window. Or you may sha
 - [ ] Ensure the audience can see your chalkboard. 
 - [ ] Review and practice sharing the resources (screen sharing, video sharing, presentation sharing, etc)
 - [ ] Try to join from a wired connection where possible. 
-- [ ] Be sure your know the meeting ID you plan to join. For workshops, that information will be [available here](https://www.msri.org/web/msri/scientific/workshops).
+- [ ] Be sure your know the meeting ID you plan to join. For seminars, that information will be [available here](https://www.msri.org/web/msri/scientific/colloquia-seminars).
 
 </details>
 
