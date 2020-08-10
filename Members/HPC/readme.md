@@ -45,6 +45,7 @@ SSH Information:
 6. After login, you may open the desired X11 application. In this example, Xmaple was invoked: ![Xmaple in Putty](https://s3-us-west-1.amazonaws.com/msri.org/computing/xmaple-putty.png)
 7. These are the commands to open popular applications:
 
+		magma
 		xmaple -nosplash
 		mathematica
 		matlab
