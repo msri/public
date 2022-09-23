@@ -9,8 +9,7 @@ MSRI-3rdFloor-South  | 2nd Floor Outside Room 316	| HP M606X| 10.17.21.31
 
 
 You may print from your office computer or any of the wireless networks at MSRI. This includes:
-			
-	MSRI-Guest
+
 	MSRI-Members
 	MSRI-Staff
 	eduroam
