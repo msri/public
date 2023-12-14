@@ -1,0 +1,61 @@
+\documentclass[11pt,letterpaper]{article} %% Set 11pt Font For Times
+%%%%%%%%%%%%%%%%%%%%% REQUESTED FOR NSF 13-Dec-23 %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{plain}      %% 
+\pagenumbering{gobble} %% Suppress page number
+%%%%%%%%%% 1in MARGINS %%%%%%%%%% 
+\setlength{\textwidth}{6.5in} 
+\setlength{\oddsidemargin}{0in}  
+\setlength{\evensidemargin}{0in}   
+\setlength{\textheight}{8.5in}       
+\setlength{\topmargin}{0in}      
+\setlength{\headheight}{0in}      
+\setlength{\headsep}{0in}         
+\setlength{\footskip}{.5in}       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                   
+\newcommand{\required}[1]{\section*{\hfil #1\hfil}}                    
+\renewcommand{\refname}{\hfil References Cited\hfil}                   
+\bibliographystyle{plain}    
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[T1]{fontenc} %%Set Times font per requirements
+\usepackage{mathptmx}
+
+\includeonly{NSFsumm}
+
+\begin{document}
+
+
+%% Basic table with borders
+\begin{table}
+    \centering
+    \begin{tabular}{|c|c|c|c|} \hline 
+         Column1&  Col2&  Col3& Col4\\ \hline 
+         &  &  & \\ \hline 
+         &  &  & \\ \hline 
+         &  &  & \\ \hline
+    \end{tabular}
+    \caption{Caption}
+    \label{tab:my_label}
+\end{table}
+
+
+%% Basic table w/o borders
+\begin{table}
+    \centering
+    \begin{tabular}{cccc}
+         Col1&  Col2&  Col3& Col4\\
+         \\
+         Value1&  Value2&  Value3& Volue4\\
+         &  &  & \\
+         Meow1&  Meow2&  Meow3& Meow4\\
+    \end{tabular}
+    \caption{Caption}
+    \label{tab:my_label}
+\end{table}
+
+\end{document}
